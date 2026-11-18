@@ -6,6 +6,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sa9dhuh/MyLeetcode/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sa9dhuh/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/sa9dhuh/MyLeetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sa9dhuh/MyLeetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/sa9dhuh/MyLeetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -26,4 +28,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sa9dhuh/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sa9dhuh/MyLeetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

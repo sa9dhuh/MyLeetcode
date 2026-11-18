@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/sa9dhuh/MyLeetcode/tree/master/0065-valid-number) |
+| [0412-fizz-buzz](https://github.com/sa9dhuh/MyLeetcode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -36,10 +37,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sa9dhuh/MyLeetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sa9dhuh/MyLeetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sa9dhuh/MyLeetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sa9dhuh/MyLeetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |

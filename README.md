@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sa9dhuh/MyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sa9dhuh/MyLeetcode/tree/master/0217-contains-duplicate) |
+| [2349-design-a-number-container-system](https://github.com/sa9dhuh/MyLeetcode/tree/master/2349-design-a-number-container-system) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/sa9dhuh/MyLeetcode/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/sa9dhuh/MyLeetcode/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sa9dhuh/MyLeetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/sa9dhuh/MyLeetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/sa9dhuh/MyLeetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->

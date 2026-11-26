@@ -15,6 +15,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sa9dhuh/MyLeetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sa9dhuh/MyLeetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sa9dhuh/MyLeetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sa9dhuh/MyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/sa9dhuh/MyLeetcode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/sa9dhuh/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sa9dhuh/MyLeetcode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |

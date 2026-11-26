@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/sa9dhuh/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sa9dhuh/MyLeetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sa9dhuh/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sa9dhuh/MyLeetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sa9dhuh/MyLeetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sa9dhuh/MyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sa9dhuh/MyLeetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
